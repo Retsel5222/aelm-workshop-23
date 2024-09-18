@@ -1,4 +1,4 @@
-FROM <<TODO>>
+FROM go
 
 WORKDIR /app
 
